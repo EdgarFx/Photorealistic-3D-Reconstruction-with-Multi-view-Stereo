@@ -1,0 +1,3 @@
+/home/xiang/ACMM/CMakeFiles/rebuild_cache.dir
+/home/xiang/ACMM/CMakeFiles/edit_cache.dir
+/home/xiang/ACMM/CMakeFiles/ACMM.dir
